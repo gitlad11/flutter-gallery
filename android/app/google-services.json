@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "251574642163",
+    "project_id": "beautymaker-3927b",
+    "storage_bucket": "beautymaker-3927b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251574642163:android:49f0a7ffe172fd90ef9e86",
+        "android_client_info": {
+          "package_name": "com.example.flutter_art"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251574642163-u8fkg0s7pv4f4lufer3mg0bo576h4lch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQqKcdf67Gn7RsaDFsYUolRhZQqhAqeOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251574642163-u8fkg0s7pv4f4lufer3mg0bo576h4lch.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
